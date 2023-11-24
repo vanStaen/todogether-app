@@ -9,7 +9,7 @@ The api is from the following repo: https://github.com/vanStaen/todogether. It's
 
 ## RESSOURCES
 
-### Tutorials:
+### TUTORIALS:
 
 - Youtube walthrough: https://www.youtube.com/watch?v=0kL6nhutjQ8
 - Medium Article: https://medium.com/how-to-react/create-your-first-react-native-app-70ee69d9ac2b
