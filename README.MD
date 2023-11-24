@@ -5,7 +5,7 @@ React Native based app.
 
 ## API
 
-The api is from the following repo: https://github.com/vanStaen/todogether. It's alreadz up and runing on www.todogether.com (hosten on Heroku). 
+The api is from the following repo: https://github.com/vanStaen/todogether. It's already up and runing on www.todogether.com (hosten on Heroku). 
 
 ## RESSOURCES
 
