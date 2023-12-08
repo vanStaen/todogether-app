@@ -4,7 +4,10 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hello World!</Text>
+      <Text>
+        <span style={styles.title}>Todogether App </span>
+        <span style={styles.motto}>| multiplayer-todolists</span>
+      </Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -13,8 +16,18 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#d9d6cb',
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  title: {
+    opacity: '.5',
+    fontWeight: 500,
+    fontSize: '20px',
+  },
+  motto: {
+    opacity: '.5',
+    fontWeight: 200,
+    fontSize: '20px',
   },
 });
