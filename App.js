@@ -4,10 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>
-        <span style={styles.title}>Todogether App </span>
-        <span style={styles.motto}>| multiplayer-todolists</span>
-      </Text>
+      <Text style={styles.title}>Todogether App </Text>
+      <Text style={styles.motto}>| multiplayer-todolists</Text>
       <StatusBar style="auto" />
     </View>
   );
